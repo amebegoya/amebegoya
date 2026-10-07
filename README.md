@@ -5,7 +5,7 @@
 - 🌱 I’m currently working with SQL and learning Python for data science
 - 🌷 Sharing my journey on Medium (https://medium.com/@amebegoya)
 
-Skills
+**Skills**
 <table width="100%">
   <thead>
     <tr>
@@ -25,21 +25,10 @@ Skills
       </td>
       <td>SQL, DAX, Power BI, Excel</td>
     </tr>
-    <tr>
-      <td><b>Research & Strategy</b></td>
-      <td>
-
-    
-        <ul>
-          <li><a href="https://github.com/amebegoya/YOUR_SPA_PROJECT_REPO">Skincare Purchase Intentions (SPA Research Case Study)</a></li>
-        </ul>
-      </td>
-      <td>SPSS, Survey Methodology, Quantitative Analysis</td>
-    </tr>
   </tbody>
 </table>
 
-Tech Stack
+**Tech Stack**
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-003B5C?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" />

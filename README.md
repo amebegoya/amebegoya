@@ -1,7 +1,7 @@
 ## Hello, I'm Amebe! 👋
 
 
-- 👩🏽‍🎓 BSc Computer Science, MSc Digital Marketing
+- 👩🏽‍🎓 I have a BSc in Computer Science and an MSc in Digital Marketing
 - 🌱 I’m currently working with SQL and learning Python for data science
 - 🌷 Sharing my journey on [Medium](https://medium.com/@amebegoya)
 

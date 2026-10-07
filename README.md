@@ -1,12 +1,12 @@
 ## Hello, I'm Amebe! 👋
 
-<!--
+
 **amebegoya/amebegoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 👩🏽‍🎓 BSc Computer Science, MSc Digital Marketing
-- 🌱 I’m currently learning SQL and Python for data science
+- 🌱 I’m currently working with SQL and learning Python for data science
 - 🌷 Sharing my journey on Medium (https://medium.com/@amebegoya)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=amebegoya&show_icons=true&theme=tokyonight)
@@ -52,5 +52,3 @@ Skills
   </tbody>
 </table>
 
-
--->

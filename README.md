@@ -3,7 +3,7 @@
 
 - 👩🏽‍🎓 BSc Computer Science, MSc Digital Marketing
 - 🌱 I’m currently working with SQL and learning Python for data science
-- 🌷 Sharing my journey on Medium (https://medium.com/@amebegoya)
+- 🌷 Sharing my journey on [Medium] (https://medium.com/@amebegoya)
 
 **Skills**
 <table width="100%">

@@ -5,6 +5,13 @@
 - 🌱 I’m currently working with SQL and learning Python for data science
 - 🌷 Sharing my journey on Medium (https://medium.com/@amebegoya)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-003B5C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
 <table width="100%">
   <thead>
     <tr>
